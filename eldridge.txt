@@ -1,0 +1,39 @@
+Start: Thurs, 12 Feb 2015 22:00:00 -0800
+End: Thurs, 12 Feb 2015 22:25:00 -0800
+Tasks: I used this time to figure out what my SQL "CREATE TABLE" should look like and drew out a diagram of the php interface.  I ran into a question about the interface so I posted about it on canvas.
+
+Start: Sat, 14 Feb 2015 10:05:00 -0800
+End: Sat, 14 Feb 2015 12:08:00 -0800
+Tasks: During this time I set up my database, conneced sqli to my php document, added some prepared statements and wrote my php video add form.
+
+Start: Sat, 14 Feb 2015 12:25:00 -0800
+End: Sat, 14 Feb 2015 13:22:00 -0800
+Tasks: Added some error handling for user text input feilds. 
+
+Start: Sat, 14 Feb 2015 17:37:00 -0800
+End: Sat, 14 Feb 2015 19:27:00 -0800
+Tasks: I was able to get output from sql as a table in my php document.  I added "delete" and "check in/out" buttons, but they were not functional.  I was able to get my "delete all" button working correctly.
+
+Start: Sat, 14 Feb 2015 21:22:00 -0800
+End: Sat, 14 Feb 2015 22:26:00 -0800
+Tasks: During this time I thought I had the "delete row" function ironed out.  Turns out it would only delete the last video added.
+
+Start: Sat, 14 Feb 2015 23:00:00 -0800
+End: Sat, 14 Feb 2015 23:46:00 -0800
+Tasks: During this time, I got "check in/out" to change back and forth in my table and tried to figure out the drop down menu, but I got stuck.
+
+Start: Sun, 15 Feb 2015 09:33:00 -0800
+End: Sun, 15 Feb 2015 11:35:00 -0800
+Tasks: This is when I realized that the "delete row" and "check in/out" buttons were not working properly.  I could not figure out a solution during this time period.
+
+Start: Sun, 15 Feb 2015 12:32:00 -0800
+End: Sun, 15 Feb 2015 13:50:00 -0800
+Tasks: Here I continued trying to get the "delete row" button to work as intended.  I did not get anywhere.  I saw a post on canvase about using "$row['name']", but that did not work for me either.  $row['name'] was staying empty.
+
+Start: Sun, 15 Feb 2015 18:00:00 -0800
+End: Sun, 15 Feb 2015 21:00:00 -0800
+Tasks: This was a mega-breakthrough.  I finally got the buttons in the table working.  I started to work on the drop down menu again.
+
+Start: Sun, 15 Feb 2015 21:21:00 -0800
+End: Sun, 15 Feb 2015 21:37:00 -0800
+Tasks: I added a delete.php file to make my site flow more easily.  Decided to take my losses on the drop down menu not doing anything.
